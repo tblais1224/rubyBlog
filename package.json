@@ -1,5 +1,9 @@
 {
   "name": "FirstRubyBlog",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "@prettier/plugin-ruby": "^0.15.1",
+    "prettier": "^1.19.1"
+  }
 }
